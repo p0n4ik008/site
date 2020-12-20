@@ -4,4 +4,4 @@ published: 2019-04-15
 tags: бабы
 ---
 
-![](../content/sakura.jpeg)
+![](../content/anna_nystrom.jpg)
