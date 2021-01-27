@@ -314,7 +314,7 @@ makeGalleryCtx = do
         let items' = map makeItem items
         -- variable names are fragile
         in listField (takeFileName folder) (ctxMaker "" itemBody) (sequence items') `mappend`
-           listField (takeFileName folder ++ "preview") (ctxMaker "" itemBody) (sequence $ take 5 items')
+           listField (takeFileName folder ++ "preview") (ctxMaker "" itemBody) (sequence $ take 10 items')
   let ctx = map listfieldMaker galleryUnboxed
   return $ foldl1 mappend ctx `mappend` galleryField
 galleryField = functionField "gallery" $ \[args] _ ->
