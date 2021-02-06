@@ -9,13 +9,6 @@ title: О Пончике
 
 ![](/content/derevo.jpg)
 
-**Социальные сети:**
-
-[![Pornhub](https://www.pornhub.com/favicon.ico){width=32px}](https://pornhub.com/users/p0n4ik)
-[![Steam](https://steamcommunity.com/favicon.ico){width=32px}](https://steamcommunity.com/profiles/76561197981148851)
-[![VK](https://vk.com/images/icons/favicons/fav_logo.ico){width=32px}](https://vk.com/p0n4ik2013)
-[![Instagram](https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico){width=32px}](https://instagram.com/p0n4ik89/)
-
 **Реплики разных людей:**
 
 § Колоритная личность (ц)
