@@ -1,6 +1,6 @@
 ---
 title: обезьяна с гранатой
 published: 2021-01-15
-tags: бабы
+tags: оружие
 ---
 $video("/content/monkey.mp4")$
